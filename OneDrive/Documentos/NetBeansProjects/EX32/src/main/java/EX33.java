@@ -7,7 +7,7 @@
  *
  * @author joaoi
  */
-public class EX32 {
+public class EX33 {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
